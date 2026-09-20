@@ -70,7 +70,7 @@ The extension isn't on the Chrome Web Store yet, so install it in developer mode
 
 1. **Download the code.** Click **Code → Download ZIP** and unzip it, or clone the repo:
    ```bash
-   git clone https://github.com/makashibk/seo-extension.git
+   git clone https://github.com/makashibk/chrome-seo-extension.git
    ```
 2. Open **`chrome://extensions`** in Chrome.
 3. Turn on **Developer mode** (top-right toggle).
