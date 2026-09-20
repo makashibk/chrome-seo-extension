@@ -7,9 +7,22 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Privacy](https://img.shields.io/badge/data%20collection-none-brightgreen)
 
-</div>
-
 ---
+
+## Installation
+
+The extension isn't on the Chrome Web Store yet, so install it in developer mode:
+
+1. **Download the code.** Click **Code → [Download ZIP](https://github.com/makashibk/chrome-seo-extension/releases/latest/download/chrome-seo-extension.zip)** and unzip it, or clone the repo:
+   ```bash
+   git clone https://github.com/makashibk/chrome-seo-extension.git
+   ```
+2. Open **`chrome://extensions`** in Chrome.
+3. Turn on **Developer mode** (top-right toggle).
+4. Click **Load unpacked** and select the project folder (the one containing `manifest.json`).
+5. Click the puzzle-piece icon in the toolbar and **pin** SEO Extension for quick access.
+
+> Chromium-based browsers such as Edge and Brave should also work using the same steps on their extensions page.
 
 ## Overview
 
@@ -63,21 +76,6 @@ It compares **rendered DOM vs. raw HTML** for canonical tags, checks `robots.txt
 - Theme: System, Light, or Dark
 - Choose which tab opens by default, or reopen the last one you used
 - Shortcut to Chrome's keyboard-shortcut page so you can bind the extension to a hotkey
-
-## Installation
-
-The extension isn't on the Chrome Web Store yet, so install it in developer mode:
-
-1. **Download the code.** Click **Code → [Download ZIP](https://github.com/makashibk/chrome-seo-extension/releases/latest/download/chrome-seo-extension.zip)** and unzip it, or clone the repo:
-   ```bash
-   git clone https://github.com/makashibk/chrome-seo-extension.git
-   ```
-2. Open **`chrome://extensions`** in Chrome.
-3. Turn on **Developer mode** (top-right toggle).
-4. Click **Load unpacked** and select the project folder (the one containing `manifest.json`).
-5. Click the puzzle-piece icon in the toolbar and **pin** SEO Extension for quick access.
-
-> Chromium-based browsers such as Edge and Brave should also work using the same steps on their extensions page.
 
 ## Usage
 
