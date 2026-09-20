@@ -168,7 +168,3 @@ For bugs, please include your Chrome version, the URL type you were testing (if 
 ## License
 
 Released under the [MIT License](LICENSE).
-
-## Author
-
-Built by **MakashibK**. If this tool saves you time, a ⭐ on the repo is much appreciated.
