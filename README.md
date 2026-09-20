@@ -64,25 +64,13 @@ It compares **rendered DOM vs. raw HTML** for canonical tags, checks `robots.txt
 - Choose which tab opens by default, or reopen the last one you used
 - Shortcut to Chrome's keyboard-shortcut page so you can bind the extension to a hotkey
 
-## Screenshots
-
-<!-- Add your screenshots to a /screenshots folder and update the paths below. -->
-
-| Content | Indexability |
-|---|---|
-| ![Content tab](screenshots/content.png) | ![Indexability tab](screenshots/indexability.png) |
-
-| Schema | Links |
-|---|---|
-| ![Schema tab](screenshots/schema.png) | ![Links tab](screenshots/links.png) |
-
 ## Installation
 
 The extension isn't on the Chrome Web Store yet, so install it in developer mode:
 
 1. **Download the code.** Click **Code → Download ZIP** and unzip it, or clone the repo:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
+   git clone https://github.com/makashibk/seo-extension.git
    ```
 2. Open **`chrome://extensions`** in Chrome.
 3. Turn on **Developer mode** (top-right toggle).
