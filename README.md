@@ -1,4 +1,4 @@
-# SEO Extension by MakashibK
+# Chrome SEO Extension
 
 **A free, one-click SEO toolbar for Chrome. Audit any page's meta tags, indexability, structured data, social tags, HTTP headers, images, and links without leaving the tab.**
 
@@ -68,7 +68,7 @@ It compares **rendered DOM vs. raw HTML** for canonical tags, checks `robots.txt
 
 The extension isn't on the Chrome Web Store yet, so install it in developer mode:
 
-1. **Download the code.** Click **Code → [Download ZIP](https://github.com/makashibk/chrome-seo-extension/archive/refs/heads/main.zip)** and unzip it, or clone the repo:
+1. **Download the code.** Click **Code → [Download ZIP](https://github.com/makashibk/chrome-seo-extension/releases/latest/download/chrome-seo-extension.zip)** and unzip it, or clone the repo:
    ```bash
    git clone https://github.com/makashibk/chrome-seo-extension.git
    ```
