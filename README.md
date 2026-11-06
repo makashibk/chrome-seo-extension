@@ -331,7 +331,7 @@ For a pull request:
 
 The code is released under the [MIT License](LICENSE).
 
-The bundled Google Sans and Google Sans Code fonts are licensed separately under the SIL Open Font License 1.1. See `extension/fonts/LICENSE-GoogleSans.txt` and `extension/fonts/LICENSE-GoogleSansCode.txt`.
+The bundled Google Sans and Google Sans Code fonts are licensed separately under the SIL Open Font License 1.1. See [`extension/fonts/LICENSE-GoogleSans.txt`](https://github.com/makashibk/chrome-seo-extension/blob/main/extension/fonts/LICENSE-GoogleSans.txt) and [`extension/fonts/LICENSE-GoogleSansCode.txt`](https://github.com/makashibk/chrome-seo-extension/blob/main/extension/fonts/LICENSE-GoogleSansCode.txt).
 
 ## Disclaimer
 
