@@ -157,7 +157,7 @@ Pure SEO is not on the Chrome Web Store yet. Install it from source. It takes un
 
 1. Download this repository: **Code → Download ZIP**, then unzip it. You can also clone it:
    ```bash
-   git clone https://github.com/your-username/pure-seo.git
+   git clone https://github.com/makashibk/chrome-seo-extension.git
    ```
 2. Open `chrome://extensions` in Chrome.
 3. Turn on **Developer mode** (top right).
