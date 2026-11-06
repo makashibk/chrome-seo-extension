@@ -319,3 +319,11 @@ For a pull request:
 The code is released under the [MIT License](LICENSE).
 
 The bundled Google Sans and Google Sans Code fonts are licensed separately under the SIL Open Font License 1.1. See `extension/fonts/LICENSE-GoogleSans.txt` and `extension/fonts/LICENSE-GoogleSansCode.txt`.
+
+## Disclaimer
+
+Pure SEO is an independent open-source project. It is not affiliated with, endorsed by, or sponsored by Google, Microsoft, or any other search engine or SEO tool vendor. Google, Googlebot, Search Console, and other product names are trademarks of their respective owners and are used only to describe compatibility and behaviour.
+
+Results are based on the page as the extension sees it and on publicly documented crawler behaviour. They are guidance, not a guarantee of how any search engine will crawl, index, or rank a page. The software is provided "as is", without warranty of any kind (see [LICENSE](LICENSE)).
+
+When the extension checks link status, robots.txt, or sitemaps, it sends requests from your browser to the sites involved. Use it responsibly and in line with the terms of the sites you inspect.
