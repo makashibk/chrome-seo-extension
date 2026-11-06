@@ -153,18 +153,31 @@ You can choose the theme (follow the system, dark or light) and which section th
 
 ## Install
 
-Pure SEO is not on the Chrome Web Store yet. Install it from source. It takes under a minute and needs no build step.
+Pure SEO is not on the Chrome Web Store yet. Install it manually in under a minute. There is no build step.
 
-1. Download this repository: **Code → Download ZIP**, then unzip it. You can also clone it:
+### Option 1: Download the release (recommended)
+
+1. Download **`[chrome-seo-extension.zip](https://github.com/makashibk/chrome-seo-extension/releases/download/v1.5.1/chrome-seo-extension.zip)`**.
+2. Unzip it into a folder you'll keep, such as `pure-seo`. Chrome loads the extension from this folder, so don't delete it afterwards.
+3. Open `chrome://extensions` in Chrome.
+4. Turn on **Developer mode** (top right).
+5. Click **Load unpacked** and select the unzipped folder (the one that contains `manifest.json`).
+6. Pin Pure SEO from the puzzle-piece menu so the icon stays in your toolbar.
+
+### Option 2: Install from source
+
+1. Clone the repository, or use **Code → Download ZIP** and unzip it:
    ```bash
    git clone https://github.com/makashibk/chrome-seo-extension.git
    ```
-2. Open `chrome://extensions` in Chrome.
-3. Turn on **Developer mode** (top right).
-4. Click **Load unpacked** and select the `extension` folder inside the repository. Select that folder, not the repository root.
-5. Pin Pure SEO from the puzzle-piece menu so the icon stays in your toolbar.
+2. Open `chrome://extensions` and turn on **Developer mode**.
+3. Click **Load unpacked** and select the `extension` folder inside the repository. Select that folder, not the repository root.
+4. Pin Pure SEO from the puzzle-piece menu.
 
-To update, pull or download the new version and click the reload icon on the Pure SEO card in `chrome://extensions`.
+### Updating
+
+- **From a release:** download the new zip from [Releases](https://github.com/makashibk/chrome-seo-extension/releases), replace the contents of your folder with the new files, then click the reload icon on the Pure SEO card in `chrome://extensions`.
+- **From source:** run `git pull`, then click the reload icon on the Pure SEO card.
 
 The extension is plain Manifest V3, so it should also load in other Chromium-based browsers that support MV3 extensions (Edge, Brave and others) through their own extensions page.
 
