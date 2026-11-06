@@ -157,7 +157,7 @@ Pure SEO is not on the Chrome Web Store yet. Install it manually in under a minu
 
 ### Option 1: Download the release (recommended)
 
-1. Download **`[chrome-seo-extension.zip](https://github.com/makashibk/chrome-seo-extension/releases/download/v1.5.1/chrome-seo-extension.zip)`**.
+1. Download [**`chrome-seo-extension.zip`**]([url](https://github.com/makashibk/chrome-seo-extension/releases/download/v1.5.1/chrome-seo-extension.zip)).
 2. Unzip it into a folder you'll keep, such as `pure-seo`. Chrome loads the extension from this folder, so don't delete it afterwards.
 3. Open `chrome://extensions` in Chrome.
 4. Turn on **Developer mode** (top right).
