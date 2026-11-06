@@ -1,0 +1,8 @@
+# Northpeak robots.txt
+User-agent: *
+Disallow: /checkout/
+Disallow: /cart/
+Disallow: /*?sort=
+Allow: /cart/help/
+
+Sitemap: https://shop.example.com/sitemap.xml
